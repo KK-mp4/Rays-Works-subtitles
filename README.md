@@ -42,3 +42,8 @@ Also here is probably how many times he said ProtoTech
 Also we tried deviding ratios of words said by Ray by use ratios of words in English and got a list with uncommon words:
 
 ![image](https://user-images.githubusercontent.com/103208695/164087516-dd629a1d-a60f-485e-98b2-628f3f6f71b7.png)
+
+[Jurassic](https://github.com/Ju-Fi/ray-says) also tried using Markov chain sentence generator on this data:
+
+![image](https://user-images.githubusercontent.com/103208695/167261916-545848b7-ca5e-424d-9b50-5a47cdcb030a.png)
+
